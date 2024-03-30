@@ -12,7 +12,6 @@
 2. Clone this repo and run `npm install` in the repo root.
 
 ### Usage
-
 #### `npm start`
 Starts the reference docs preview server.
 
